@@ -1,3 +1,2 @@
 ### hello !
-my name is rafaela
-age: 16 years old
+my name is rafaela and i have 16 years old
