@@ -8,5 +8,3 @@ my favs things:
 -music 
 -play instruments
 -sleep
-
-instagram:https://www.instagram.com/rafaelasour/
