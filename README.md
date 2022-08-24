@@ -14,7 +14,6 @@
 - minha casa é lufa lufa
 - amo dormir tipo muito 
 
-![meu spotify](https://open.spotify.com/user/qierjfctxde771xn4fqsliqvp?si=dc6eb5e3621046ef)
 
 ```
 eu, eu quero me perder
@@ -25,4 +24,3 @@ esses seus olhos vermelhos
 
 ```
 
-![Snake animation](https://github.com/scirafa/scirafa/blob/output/github-contribution-grid-snake.svg)
