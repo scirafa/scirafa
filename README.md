@@ -16,11 +16,13 @@
 
 
 ```
-eu, eu quero me perder
+"eu, eu quero me perder
 incendiar, nadar além do mar
 me deixa sentir medo, tocar tudo que eu vejo
 não me sorri porque eu venci
-esses seus olhos vermelhos
+esses seus olhos vermelhos"
+
+- jao
 
 ```
 
