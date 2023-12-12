@@ -4,8 +4,9 @@
 
 #### about me:
 - meu nome é rafaela
-- tenho 17 anos
+- tenho 18 anos
 - amo o jao
+- amo o inter
 - amo gatinhos 💘💗💞🤍💖
 - amo escutar musica
 - amo o louis
