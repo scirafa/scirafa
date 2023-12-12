@@ -1,4 +1,4 @@
-## bem vinde ao meu git <3
+## bem vindo ao meu git <3
 
 ![gatinho](https://user-images.githubusercontent.com/85495862/186285568-f7b956e2-69ea-4536-a86e-add5a576c2b8.jpg)
 
