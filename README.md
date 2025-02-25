@@ -11,6 +11,7 @@
 - amo escutar musica
 - amo o louis
 - amo a claire
+- amo a taylor
 - meu mbti é infp
 - minha casa é lufa lufa
 - amo dormir tipo muito 
